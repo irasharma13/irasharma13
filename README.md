@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **irasharma13/irasharma13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,7 +39,7 @@ I'm a Graduate Student majoring in Software Engineering at San Jose State Univer
 •	Team Player
 •	Project Management
 
-## 🌈 Fun Facts and Interests 🎉
+<!--## 🌈 Fun Facts and Interests 🎉!-->
 
 
 
@@ -59,5 +59,5 @@ Courses enrolled in:
 
 Please contact me at irasharma13@gmail.com
 
-[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-<COLOR>-<LOGO>?style=for-the-badge)](https://yourwebsite.com)
+<!--[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-<COLOR>-<LOGO>?style=for-the-badge)](https://yourwebsite.com)-->
 
