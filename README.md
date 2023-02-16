@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header Image](https://i.imgur.com/y3zUMTn.png)
-
 # Hi, I'm Ira Sharma 🌟
 
 [Insert Profile Picture here]
@@ -59,5 +57,5 @@ Courses enrolled in:
 
 Please contact me at irasharma13@gmail.com
 
-<!--[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-<COLOR>-<LOGO>?style=for-the-badge)](https://yourwebsite.com)-->
+<!---[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-<COLOR>-<LOGO>?style=for-the-badge)](https://yourwebsite.com)--->
 
