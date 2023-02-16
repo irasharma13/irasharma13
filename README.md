@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ira Sharma 🌟
 
-[Insert Profile Picture here]
-
 I'm a Graduate Student majoring in Software Engineering at San Jose State University. I am looking for opportunities to advance my skills in the field of software. I have an immense passion for technology and never plan to stop learning about the endless possibilities it has to offer. I'm open to any career and learning opportunities. Dedicated to expanding my experiences and taking initiative in the workplace.
 
 ## 🚀 Skills & Tools 💻
