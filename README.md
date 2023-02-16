@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+<!---[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-<COLOR>-<LOGO>?style=for-the-badge)](https://yourwebsite.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -57,5 +58,4 @@ Courses enrolled in:
 
 Please contact me at irasharma13@gmail.com
 
-<!---[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-<COLOR>-<LOGO>?style=for-the-badge)](https://yourwebsite.com)--->
 
