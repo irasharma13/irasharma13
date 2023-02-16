@@ -38,8 +38,6 @@ I'm a Graduate Student majoring in Software Engineering at San Jose State Univer
 •	Strategic Planning
 •	Team Player
 •	Project Management
-![image](https://user-images.githubusercontent.com/36807339/219435922-bdccbd2a-665a-4dc0-993a-bd5c8421e5eb.png)
-
 
 ## 🌈 Fun Facts and Interests 🎉
 
@@ -55,9 +53,6 @@ Courses enrolled in:
 •	Enterprise Distributed Systems 
 •	Software Systems Engineering 
 •	Enterprise Software Platforms
-
-![image](https://user-images.githubusercontent.com/36807339/219436028-4f2dcf5e-5ab3-4614-81a0-909014433896.png)
-x
 
 
 ## 📫 Contact Me 📧
