@@ -25,26 +25,40 @@ I'm a Graduate Student majoring in Software Engineering at San Jose State Univer
 
 ## 🚀 Skills & Tools 💻
 
-![Skills and Tools](https://i.imgur.com/B8WFCrV.png)
+•	Java
+•	JavaScript
+•	Node.js
+•	Web Development
+•	Front end development
+•	Quality Assurance
+•	Angular
+•	Bootstrap
+•	AWS
+•	Quick Learner
+•	Strategic Planning
+•	Team Player
+•	Project Management
+![image](https://user-images.githubusercontent.com/36807339/219435922-bdccbd2a-665a-4dc0-993a-bd5c8421e5eb.png)
 
-[Insert a short paragraph about your key skills and favorite tools. You can add icons, emojis or images to make it more interesting.]
 
 ## 🌈 Fun Facts and Interests 🎉
 
-![Fun Facts and Interests](https://i.imgur.com/vEWy6XC.png)
 
-- [Insert Fun Fact]
-- [Insert Fun Fact]
-- [Insert Fun Fact]
-- [Insert Interest or Hobby]
-- [Insert Interest or Hobby]
-- [Insert Interest or Hobby]
 
 ## 📚 Learning and Growth 🌱
 
-![Learning and Growth](https://i.imgur.com/P9XIfgo.png)
+Courses enrolled in:
 
-[Insert Learning Goals or Growth Plan. Share the skills or technologies you're currently learning or interested in, and how you plan to improve yourself.]
+•	Enterprise Development Application 
+•	Machine Learning 
+•	System Software 
+•	Enterprise Distributed Systems 
+•	Software Systems Engineering 
+•	Enterprise Software Platforms
+
+![image](https://user-images.githubusercontent.com/36807339/219436028-4f2dcf5e-5ab3-4614-81a0-909014433896.png)
+x
+
 
 ## 📫 Contact Me 📧
 
