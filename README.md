@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ![Header Image](https://i.imgur.com/y3zUMTn.png)
 
-# Hi, I'm [Your Name] 🌟
+# Hi, I'm Ira Sharma 🌟
 
 [Insert Profile Picture here]
 
-I'm a [Insert Profession/Job Title] with experience in [Insert Relevant Skills]. I'm passionate about [Insert Interests/Hobbies], and love to [Insert Fun Facts/Activities]. 
+I'm a Graduate Student majoring in Software Engineering at San Jose State University. I am looking for opportunities to advance my skills in the field of software. I have an immense passion for technology and never plan to stop learning about the endless possibilities it has to offer. I'm open to any career and learning opportunities. Dedicated to expanding my experiences and taking initiative in the workplace.
 
 ## 🚀 Skills & Tools 💻
 
@@ -48,9 +48,7 @@ I'm a [Insert Profession/Job Title] with experience in [Insert Relevant Skills].
 
 ## 📫 Contact Me 📧
 
-![Contact Me](https://i.imgur.com/ezHH0Us.png)
-
-[Insert Links to your social media, portfolio, email or other ways to reach you. Don't forget to add your name and/or handle.]
+Please contact me at irasharma13@gmail.com
 
 [![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-<COLOR>-<LOGO>?style=for-the-badge)](https://yourwebsite.com)
 
