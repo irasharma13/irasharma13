@@ -46,7 +46,7 @@ Courses enrolled in:
 
 •	Enterprise Development Application 
 •	Machine Learning 
-•	System Software 
+•	System Software Engineering
 •	Enterprise Distributed Systems 
 •	Software Systems Engineering 
 •	Enterprise Software Platforms
