@@ -55,6 +55,7 @@ Courses enrolled in:
 ## 📫 Contact Me 📧
 
 Please contact me at irasharma13@gmail.com
-LinkedIn:https://www.linkedin.com/in/ira-sharma/
+---
+LinkedIn: https://www.linkedin.com/in/ira-sharma/
 
 
