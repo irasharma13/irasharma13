@@ -49,10 +49,9 @@ I'm a Graduate Student majoring in Software Engineering at San Jose State Univer
   - **Tech stack:** Flutter, Firebase, Django, Dialogflow
   - 🌍 Connecting communities during calamities for rapid response.
 
-- [Student Management Hackathon Prep](https://github.com/irasharma13/Student_Management_Hackthon_Prep) 
+- [Quackademic Homeroom](https://github.com/irasharma13/Student_Management_Hackthon_Prep) 
   - **Tech stack:** React.js, Cohere API, Google Cloud Platform
-  - 🎓 Streamlining student management processes for hackathon success.
-
+  - 🎓 Creating personalized learning resources from audio with Google Cloud Speech-to-Text and Co:here, including tailored quizzes.
 
 
 ## 📚 Learning and Growth 🌱
