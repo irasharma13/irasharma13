@@ -39,6 +39,21 @@ I'm a Graduate Student majoring in Software Engineering at San Jose State Univer
 <!--## 🌈 Fun Facts and Interests 🎉!-->
 
 
+## Latest Projects 🚀
+
+- [Food Security](https://github.com/irasharma13/Food-Security-) 
+  - **Tech stack:** JavaScript, React, Google Charts, Chat GPT API
+  - 🍲 Ensuring food security through innovative technology solutions.
+
+- [Calamity Konnect](https://github.com/irasharma13/Calamity_Konnect) 
+  - **Tech stack:** Flutter, Firebase, Django, Dialogflow
+  - 🌍 Connecting communities during calamities for rapid response.
+
+- [Student Management Hackathon Prep](https://github.com/irasharma13/Student_Management_Hackthon_Prep) 
+  - **Tech stack:** React.js, Cohere API, Google Cloud Platform
+  - 🎓 Streamlining student management processes for hackathon success.
+
+
 
 ## 📚 Learning and Growth 🌱
 
@@ -57,5 +72,7 @@ Courses enrolled in:
 Please contact me at irasharma13@gmail.com
 ---
 LinkedIn: https://www.linkedin.com/in/ira-sharma/
+
+
 
 
