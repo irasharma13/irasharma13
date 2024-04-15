@@ -43,7 +43,7 @@ I'm a Graduate Student majoring in Software Engineering at San Jose State Univer
 
 - [Food Security](https://github.com/irasharma13/Food-Security-) 
   - **Tech stack:** JavaScript, React, Google Charts, Chat GPT API
-  - 🍲 Ensuring food security through innovative technology solutions.
+  - 🍲 The Food Security Dashboard, powered by React.js, provides global food security insights via interactive graphs, drag-and-drop data manipulation, and a user-friendly chatbot.
 
 - [Calamity Konnect](https://github.com/irasharma13/Calamity_Konnect) 
   - **Tech stack:** Flutter, Firebase, Django, Dialogflow
