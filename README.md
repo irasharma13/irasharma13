@@ -73,10 +73,11 @@ Please contact me at irasharma13@gmail.com
 LinkedIn: https://www.linkedin.com/in/ira-sharma/
 
 
-[![Ira's GitHub stats](https://github-readme-stats.vercel.app/api?username=irasharma13)](https://github.com/irasharma13/github-readme-stats)
+
+![Ira's GitHub stats](https://github-readme-stats.vercel.app/api?username=irasharma13&show_icons=true&theme=chartreuse-dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irasharma13)](https://github.com/irasharma13/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irasharma13&layout=donut)](https://github.com/irasharma13/github-readme-stats)
 
 
 
