@@ -73,5 +73,8 @@ Please contact me at irasharma13@gmail.com
 LinkedIn: https://www.linkedin.com/in/ira-sharma/
 
 
+[![Ira's GitHub stats](https://github-readme-stats.vercel.app/api?username=irasharma13)](https://github.com/irasharma13/github-readme-stats)
+
+
 
 
