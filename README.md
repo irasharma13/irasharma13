@@ -74,7 +74,9 @@ LinkedIn: https://www.linkedin.com/in/ira-sharma/
 
 
 
-![Ira's GitHub stats](https://github-readme-stats.vercel.app/api?username=irasharma13&show_icons=true&theme=chartreuse-dark)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irasharma13&hide=contribs,prs)
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irasharma13&layout=donut)](https://github.com/irasharma13/github-readme-stats)
