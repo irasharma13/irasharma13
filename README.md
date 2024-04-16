@@ -81,6 +81,9 @@ LinkedIn: https://www.linkedin.com/in/ira-sharma/
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irasharma13&layout=donut)](https://github.com/irasharma13/github-readme-stats)
 
+[![Ira's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irasharma13)](https://github.com/irasharma13/github-readme-stats)
+
+
 
 
 
