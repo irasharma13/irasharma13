@@ -49,4 +49,4 @@ Courses enrolled in:
 
 ![Ira's GitHub stats](https://github-readme-stats.vercel.app/api?username=irasharma13&rank_icon=github&show=prs_merged_percentage&theme=radical&hide=issues&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irasharma13&hide_progress=true)
