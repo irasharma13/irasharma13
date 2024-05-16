@@ -48,3 +48,5 @@ Courses enrolled in:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irasharma13@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ira-sharma/)
 
 ![Ira's GitHub stats](https://github-readme-stats.vercel.app/api?username=irasharma13&rank_icon=github&show=prs_merged_percentage&theme=radical&hide=issues&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
