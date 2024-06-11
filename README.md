@@ -32,6 +32,23 @@ I'm a Graduate Student majoring in Software Engineering at San Jose State Univer
   - **Tech stack:** React.js, Cohere API, Google Cloud Platform
   - 🎓 Creating personalized learning resources from audio with Google Cloud Speech-to-Text and Co:here, including tailored quizzes.
 
+- [ClapSolo](https://github.com/irasharma13/ClapSolo)
+  - **Tech stack:** Kotlin, Java, Android
+  - 🎮 ClapSolo is an interactive Android app that uses clapping sounds to control the game character. The project integrates Kotlin and Java to provide a seamless gaming experience, making the game accessible to a wider audience.
+
+- [OCR Analytics](https://github.com/irasharma13/OCR_Analytics)
+  - **Tech stack:** HTML, CSS, JavaScript, React, ChatGPT API
+  - 📄 OCR Analytics is a web application that extracts text from images and provides detailed analytics. It uses Tesseract for optical character recognition and integrates the ChatGPT API for enhanced text processing, offering users insights into their scanned documents.
+
+- [ASL GestureSense](https://github.com/irasharma13/ASL-GestureSense-Unity)
+  - **Tech stack:** Unity, TensorFlow, Python
+  - 👐 ASL GestureSense is a Unity-based application that translates American Sign Language gestures into text. This project leverages TensorFlow for machine learning, making communication easier for individuals with hearing impairments.
+
+- [Hotel Watch](https://github.com/irasharma13/Hotel-Watch)
+  - **Tech stack:** Flask, React, Firebase
+  - 🔍 Hotel Watch is a web application that integrates a classification model for hotel matching and uses PowerBI to display regional human trafficking cases for law enforcement. This tool aims to assist authorities in identifying and responding to human trafficking incidents effectively.
+
+
 ## 📚 Learning and Growth 🌱
 
 Courses enrolled in:
