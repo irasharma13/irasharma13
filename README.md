@@ -7,6 +7,7 @@ I'm a Graduate Student majoring in Software Engineering at San Jose State Univer
 - Java
 - JavaScript
 - Node.js
+- Three.js
 - Web Development
 - Front end development
 - Quality Assurance
@@ -19,6 +20,10 @@ I'm a Graduate Student majoring in Software Engineering at San Jose State Univer
 - Project Management
 
 ## Latest Projects 🚀
+
+- [Aspect3D](https://github.com/irasharma13/Aspect3D) 
+  - **Tech stack:** JavaScript, React.js, Three.js, Flask, Blender
+  - 🌐 Aspect3D is a web application that lets you upload, customize, and explore Blender-created 3D models with interactive features like zoom, pan, rotate, and color changes using three.js.
 
 - [Food Security](https://github.com/irasharma13/Food-Security-) 
   - **Tech stack:** JavaScript, React, Google Charts, Chat GPT API
